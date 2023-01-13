@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ernest</h1>
-<h3 align="center">A passionate fullstack developer from Takoradi, Ghana</h3>
+<h3 align="center">An aspiring fullstack software engineer from Takoradi, Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fullstackernest" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackernest?logo=twitter&style=for-the-badge" alt="fullstackernest" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and Python, Vue.js and Django**
+- 🌱 I’m currently learning **Javascript and the Django Framework with Python**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Open source and any other interesting projects**
 
 - 💬 Ask me about **HTML, CSS and Python**
 
 - 📫 How to reach me **ernestsarfo100@gmail.com**
 
-- ⚡ Fun fact **I also make beats with FL Studio**
+- ⚡ Fun fact **I also make beats with FL Studio😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
