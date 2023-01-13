@@ -7,15 +7,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ernest</h1>
 <h3 align="center">A passionate software developer from Takoradi,Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elikofi&label=Profile%20views&color=0e75b6&style=flat" alt="elikofi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
 
 - 🌱 I’m currently learning **Javascript and Python**
 
 <!-- - 👨‍💻 All of my projects are available at [elikofi.herokuapp.com](elikofi.herokuapp.com) -->
 
 - 💬 Ask me about **HTML and CSS**
-- 
-- - 👯 I’m looking to collaborate on **both frontend and backend projects**
+
+- 👯 I’m looking to collaborate on **both frontend and backend projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ernest-sarfo-8b6671187/**
 
