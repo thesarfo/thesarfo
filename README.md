@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript and the Django Framework with Python**
 
-- 👯 I’m looking to collaborate on **Open source and any other interesting projects**
+- 👯 I’m looking to collaborate on **Open Source and any other interesting projects**
 
-- 💬 Ask me about **HTML, CSS and Python**
+<!-- - 💬 Ask me about **HTML, CSS and Python** -->
 
 - 📫 How to reach me **ernestsarfo100@gmail.com**
 
