@@ -11,7 +11,7 @@
 
 <!-- - 💬 Ask me about **HTML, CSS and Python** -->
 
-- 📫 How to reach me **ernestsarfo100@gmail.com**
+- 📫 Reach me via **ernestsarfo100@gmail.com**
 
 - ⚡ Fun fact **I also make beats with FL Studio😁**
 
