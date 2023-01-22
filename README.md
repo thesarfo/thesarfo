@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/fullstackernest" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackernest?logo=twitter&style=for-the-badge" alt="fullstackernest" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Open Source and any other Frontend Projects**
+- 👯 I’m looking to collaborate on **Open Source and any other interesting projects**
 
 <!-- - 💬 Ask me about **HTML, CSS and Python** -->
 
