@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/fullstackernest" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackernest?logo=twitter&style=for-the-badge" alt="fullstackernest" /></a> </p> -->
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Javascript**
 
-- 👯 I’m looking to collaborate on **Open Source and any other interesting projects**
+- 👯 I’m looking to collaborate on **Frontend Projects and Open Source**
 
-<!-- - 💬 Ask me about **HTML, CSS and Python** -->
+- 💬 Ask me about **HTML, CSS and Python**
 
 - 📫 Reach me via **ernestsarfo100@gmail.com**
 
-- ⚡ Fun fact **I also make beats with FL Studio😁**
+- ⚡ Fun fact **I also make music with FL Studio😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
