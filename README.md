@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Ernest</h1>
-<h3 align="center">An aspiring Fullstack Software Engineer</h3>
+<h3 align="center">An aspiring Fullstack Software Developer</h3>
 <p>I have been programming for the the past 3 years, and I hope to use my skills to build software and help solve problems.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
