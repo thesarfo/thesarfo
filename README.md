@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Python's Django Framework**
 
-- 👯 I’m looking to collaborate on **Open Source, Communities and Interesting Projects**
+- 👯 I’m looking to collaborate on **any Interesting Projects**
 
 <!-- - 💬 Ask me about **HTML, CSS and Python** -->
 
 - 📫 Reach me at **ernestsarfo100@gmail.com**
 
-- ⚡ Fun fact **I also make music with FL Studio😁**
+- ⚡ Fun fact **I make music with FL Studio😁**
 
 <h3 align="left">Socials</h3>
 <p align="left">
