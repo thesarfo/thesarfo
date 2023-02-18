@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/fullstackernest" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackernest?logo=twitter&style=for-the-badge" alt="fullstackernest" /></a> </p> -->
 
-- 🌱 I’m currently learning **Python's Django Framework**
+- 🌱 I’m currently learning **Django and C**
 
 - 👯 I’m looking to collaborate on **any Interesting Projects**
 
