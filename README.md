@@ -29,6 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesarfo&show_icons=true&locale=en&layout=compact" alt="thesarfo" /></p>
 
 
+<img src="https://github.com/thesarfo" alt="thesarfo's Blue Github Chart" />
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesarfo&" alt="thesarfo" /></p> -->
 
 
