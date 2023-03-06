@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Ernest</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">Fullstack Software Engineer</h3>
 <!--<p>I have been programming for the the past 3 years, and I hope to use my skills to build software and help solve problems.-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
@@ -14,8 +14,8 @@
 
 - 📫 Reach me at **ernestsarfo100@gmail.com**
 
-- ⚡ Fun fact **I make music with FL Studio😁**
-
+<!-- - ⚡ Fun fact **I make music with FL Studio😁**
+ -->
 <h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/fullstackernest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fullstackernest" height="30" width="40" /></a>
