@@ -1,6 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Ernest</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
-<!--<p>I have been programming for the the past 3 years, and I hope to use my skills to build software and help solve problems.-->
+<p> I am currently focused on sharpening my skills and keeping up-to-date with the latest advancements in the field of system analysis and programming to continue delivering results-driven solutions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
 
