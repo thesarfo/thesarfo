@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **ernestsarfo100@gmail.com**
 
-⚡ Fun fact **I make music with FL Studio😁**
+- ⚡ Fun fact **I make music with FL Studio😁**
 
 <h3 align="left">Socials</h3>
 <p align="left">
