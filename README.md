@@ -14,8 +14,8 @@
 
 - 📫 Reach me at **ernestsarfo100@gmail.com**
 
-<!-- - ⚡ Fun fact **I make music with FL Studio😁**
- -->
+⚡ Fun fact **I make music with FL Studio😁**
+
 <h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/fullstackernest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fullstackernest" height="30" width="40" /></a>
