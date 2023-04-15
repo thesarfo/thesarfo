@@ -1,6 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Ernest</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
-<p>I possess extensive knowledge and practical experience that spans over several years. I love collaborating with developers who share my mindset and working on projects that have practical, real-world applications.</p>
+<!--<p>I possess extensive knowledge and practical experience that spans over several years. I love collaborating with developers who share my mindset and working on projects that have practical, real-world applications.</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
 
