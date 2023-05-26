@@ -1,20 +1,20 @@
 <h1 align="center">Howdy 👋, I'm Ernest</h1>
-<h3 align="center">Fullstack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <!--<p>I possess extensive knowledge and practical experience that spans over several years. I love collaborating with developers who share my mindset and working on projects that have practical, real-world applications.</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/fullstackernest" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackernest?logo=twitter&style=for-the-badge" alt="fullstackernest" /></a> </p> -->
 
-- 🌱 I’m currently learning **Javascript and C**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **any Interesting Projects**
+<!-- - 👯 I’m looking to collaborate on **any Interesting Projects** -->
 
 <!-- - 💬 Ask me about **HTML, CSS and Python** -->
 
 - 📫 Reach me at **ernestsarfo100@gmail.com**
 
-- ⚡ Fun fact **I make music with FL Studio😁**
+<!-- - ⚡ Fun fact **I make music with FL Studio😁** -->
 
 <h3 align="left">Socials</h3>
 <p align="left">
