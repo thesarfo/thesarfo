@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarfo&label=Profile%20views&color=0e75b6&style=flat" alt="thesarfo" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Javascript**
 
 - 📫 How to reach me **ernestsarfo100@gmail.com**
 
@@ -18,5 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesarfo&show_icons=true&locale=en&layout=compact" alt="thesarfo" /></p> 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesarfo&" alt="thesarfo" /></p>
 
