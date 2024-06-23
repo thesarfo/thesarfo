@@ -1,4 +1,4 @@
-[About Me](https://portfolio-thesarfos-projects.vercel.app/) <br>
+[About Me](https://thesarfo.vercel.app) <br>
 [LinkedIn](https://linkedin.com/in/ernest-sarfo) <br>
 [Twitter](https://x.com/ofrastsenre) <br>
 [Join my Discord Server](https://discord.gg/QtDyxg2t5F) <br>
